@@ -25,8 +25,8 @@
    the config you want - ie #define EXAMPLE_WIFI_SSID "mywifissid"
 */
 
-#define EXAMPLE_ESP_WIFI_SSID      "_____Wifi_SSID___"
-#define EXAMPLE_ESP_WIFI_PASS      "___Wifi_password_"
+#define EXAMPLE_ESP_WIFI_SSID      "AIS 4G Hi-Speed Home WiFi_769475"
+#define EXAMPLE_ESP_WIFI_PASS      "50769475"
 #define EXAMPLE_ESP_MAXIMUM_RETRY  5
 
 /* FreeRTOS event group to signal when we are connected*/
